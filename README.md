@@ -1,7 +1,6 @@
 # Cows in Space
 
-This is a game which was made for a course in data communication where the goal was to create an online game.
-We decided add a fun twist and call it "cows in space"
+This is a game which was made for a course in data communication at Uppsala University where the goal was to create an online game.
 
 ## Setup
 
